@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=baseio-all-1.0.8-SNAPSHOT-source.jar -DgroupId=com.generallycloud -DartifactId=baseio-all -Dversion=1.0.8-SNAPSHOT -Dpackaging=jar -Dclassifier=sources
