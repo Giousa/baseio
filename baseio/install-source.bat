@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=baseio-all-2.1.16-SNAPSHOT-source.jar -DgroupId=com.generallycloud -DartifactId=baseio-all -Dversion=2.1.16-SNAPSHOT -Dpackaging=jar -Dclassifier=sources
